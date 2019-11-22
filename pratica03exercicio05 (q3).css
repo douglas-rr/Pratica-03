@@ -1,0 +1,30 @@
+h2 {
+    color: rgb(166, 255, 154);
+    font-weight: bold;
+    font-family: Verdana;
+    font-size: 2.5rem;
+    background-color: rgb(1, 75, 1);
+}
+
+body {
+    color: rgb(50, 126, 0);
+    text-align: center;
+    font-family: Verdana;
+    font-size: 2rem;
+}
+
+#fundo {
+    background-color: rgb(199, 240, 138);
+    text-align: center;
+    width: 500px;
+    /* largura da div */
+    height: 175px;
+    /* altura da div */
+    line-height: 50px;
+    /* espaçamento entre linhas */
+    position: absolute;
+    top: 15%;
+    /* distancia do topo da pagina */
+    left: 34.6%;
+    /*distancia da parte esquerda da pagina*/
+}

@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    background-color: darkseagreen;
+}
+h2 {
+    font-style: oblique;
+    color: rgb(247, 252, 0); 
+}
+.texto {
+    color: rgb(129, 255, 71);
+    text-decoration: underline;
+    font-style: inherit;
+}
